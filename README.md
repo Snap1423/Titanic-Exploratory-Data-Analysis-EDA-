@@ -32,16 +32,21 @@ This project is part of my Data Analysis using Pandas, Matplotlib, and Seaborn.
 
 ## Folder Structure
 
+```text
 titanic-data-analysis/
-│
 ├── Titanic_EDA.ipynb
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 └── data/
     └── Titanic-Dataset.csv
+```
 
 ## requirements.txt
+```text
 pandas
 matplotlib
 seaborn
 jupyter
+```
+
